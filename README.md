@@ -116,14 +116,6 @@ Datumlens collapses cost and time-to-value by **10×** — deploys in **2–4 ho
 - **INPI Trademark Class 42** `20262007739058` (Portugal — under analysis)
 - **IGAC copyright registration** on FORJA Process methodology
 
-## Pricing (illustrative, B2B)
-
-- **Starter (€2K–€4K/month)**: small SMEs, single-tenant on managed VPS
-- **Professional (€4K–€8K/month)**: mid-market, multi-source discovery + governance
-- **Enterprise (€8K–€10K/month)**: regulated sectors, dedicated cluster, custom SLAs
-
-Average target ARR per customer: **€131,700/year** (mix 10/60/30 startup/SME/enterprise).
-
 ## Roadmap (high level)
 
 | Version | Milestone |

@@ -137,7 +137,7 @@ This repository hosts a **public showcase only** — architecture, screenshots, 
 
 ## Contact
 
-- **CEO & Founder** — José Maria Duque — `jose@be-innpro.com`
+- **CEO & Founder** — José Maria Duque — `j.duque@be-innpro.com`
 - **CTO & Co-Founder** — Neilsen Alves Seixas — `neilsen.seixas@be-innpro.com`
 
 ---
